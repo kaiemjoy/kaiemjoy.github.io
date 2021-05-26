@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kristen Aiemjoy"
 title_separator          : "-"
-name                     : &name "RKristen Aiemjoy"
+name                     : &name "Kristen Aiemjoy"
 description              : &description "Postdoc in Infectious Disease Epidemiology"
 url                      : https://kaiemjoy.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
